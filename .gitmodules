@@ -10,3 +10,7 @@
 	path = mod/Model
 	url = https://github.com/Nomoos/PrismQ.IdeaInspiration.Model.git
 	branch = main
+[submodule "mod/Classification"]
+	path = mod/Classification
+	url = https://github.com/Nomoos/PrismQ.IdeaInspiration.Classification.git
+	branch = main
