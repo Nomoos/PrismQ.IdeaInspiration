@@ -6,3 +6,7 @@
 	path = mod/Scoring
 	url = https://github.com/Nomoos/PrismQ.IdeaInspiration.Scoring.git
 	branch = main
+[submodule "mod/Model"]
+	path = mod/Model
+	url = https://github.com/Nomoos/PrismQ.IdeaInspiration.Model.git
+	branch = main
