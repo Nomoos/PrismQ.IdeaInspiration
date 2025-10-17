@@ -14,3 +14,7 @@
 	path = mod/Classification
 	url = https://github.com/Nomoos/PrismQ.IdeaInspiration.Classification.git
 	branch = main
+[submodule "mod/Sources"]
+	path = mod/Sources
+	url = https://github.com/Nomoos/PrismQ.IdeaInspiration.Sources.git
+	branch = main
