@@ -1,7 +1,3 @@
-[submodule "Classification"]
-	path = Classification
-	url = https://github.com/Nomoos/PrismQ.IdeaInspiration.Classification.git
-	branch = main
 [submodule "mod/Scoring"]
 	path = mod/Scoring
 	url = https://github.com/Nomoos/PrismQ.IdeaInspiration.Scoring.git
